@@ -1,0 +1,17 @@
+C:\Users\TEMP\documents\visual studio 2010\Projects\opensavefile\opensavefile\obj\x86\Debug\opensavefile.Form1.resources
+C:\Users\TEMP\documents\visual studio 2010\Projects\opensavefile\opensavefile\obj\x86\Debug\opensavefile.Properties.Resources.resources
+C:\Users\TEMP\documents\visual studio 2010\Projects\opensavefile\opensavefile\obj\x86\Debug\opensavefile.csproj.GenerateResource.Cache
+C:\Users\TEMP\documents\visual studio 2010\Projects\opensavefile\opensavefile\bin\Debug\opensavefile.exe
+C:\Users\TEMP\documents\visual studio 2010\Projects\opensavefile\opensavefile\bin\Debug\opensavefile.pdb
+C:\Users\TEMP\documents\visual studio 2010\Projects\opensavefile\opensavefile\obj\x86\Debug\opensavefile.exe
+C:\Users\TEMP\documents\visual studio 2010\Projects\opensavefile\opensavefile\obj\x86\Debug\opensavefile.pdb
+C:\Users\Oem\Desktop\opensavefile\opensavefile\obj\x86\Debug\opensavefile.exe
+C:\Users\Oem\Desktop\opensavefile\opensavefile\obj\x86\Debug\opensavefile.pdb
+C:\Users\Oem\Desktop\opensavefile\opensavefile\obj\x86\Debug\opensavefile.Form1.resources
+C:\Users\Oem\Desktop\opensavefile\opensavefile\obj\x86\Debug\opensavefile.Properties.Resources.resources
+C:\Users\Oem\Desktop\opensavefile\opensavefile\obj\x86\Debug\opensavefile.csproj.GenerateResource.Cache
+C:\Users\Oem\Desktop\opensavefile\opensavefile\bin\Debug\opensavefile.exe
+C:\Users\Oem\Desktop\opensavefile\opensavefile\bin\Debug\opensavefile.pdb
+C:\Users\Oem\Desktop\opensavefile\opensavefile\obj\x86\Debug\opensavefile.Form2.resources
+C:\Users\Oem\Desktop\opensavefile\opensavefile\obj\x86\Debug\opensavefile.Form3.resources
+C:\Users\Oem\Desktop\opensavefile\opensavefile\obj\x86\Debug\opensavefile.csprojResolveAssemblyReference.cache
